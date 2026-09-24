@@ -1,0 +1,37 @@
+# ROS / colcon
+build/
+install/
+log/
+.colcon/
+
+# CMake
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs and generated artifacts
+*.log
+*.bag
+*.db3
+*.mcap
+*.bin
+*.elf
+*.hex
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
