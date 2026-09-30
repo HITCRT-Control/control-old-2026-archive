@@ -1,0 +1,15 @@
+h723_pin_distribute_chassis\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+h723_pin_distribute_chassis\queue.o: D:\after_HIT1\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+h723_pin_distribute_chassis\queue.o: D:\after_HIT1\keil\ARM\ARMCC\Bin\..\include\string.h
+h723_pin_distribute_chassis\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+h723_pin_distribute_chassis\queue.o: D:\after_HIT1\keil\ARM\ARMCC\Bin\..\include\stddef.h
+h723_pin_distribute_chassis\queue.o: D:\after_HIT1\keil\ARM\ARMCC\Bin\..\include\stdint.h
+h723_pin_distribute_chassis\queue.o: ../Core/Inc/FreeRTOSConfig.h
+h723_pin_distribute_chassis\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+h723_pin_distribute_chassis\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+h723_pin_distribute_chassis\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+h723_pin_distribute_chassis\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+h723_pin_distribute_chassis\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+h723_pin_distribute_chassis\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+h723_pin_distribute_chassis\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+h723_pin_distribute_chassis\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
